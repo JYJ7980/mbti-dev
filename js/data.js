@@ -1,4 +1,5 @@
 export const questions = [
+  // 이름이 questions인 배열 선언
   {
     number: '01',
     question: '곧 크리스마스! 회사에서 크리스마스 파티 스텝을 모집한다는데?',
