@@ -1,5 +1,8 @@
 export const questions = [
-  // 이름이 questions인 배열 선언
+  // []=> 이름이 questions인 배열 선언
+  // {}=> 클래스 선언
+  // 요소가 클래스로 구성된 배열이 선언됨
+  // 클래스 안의 요소를 불러올때 ex)questions[0].number
   {
     number: '01',
     question: '곧 크리스마스! 회사에서 크리스마스 파티 스텝을 모집한다는데?',
